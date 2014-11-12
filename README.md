@@ -18,6 +18,9 @@ Hello sir,
 
   Database	
 	mydatabase name is "test"
-  user name is "root"
-	password is "" (None).
-	table name in databse is "bookmark".
+  	user name is "root"
+  	password is "" (None).
+  	table name in databse is "bookmark".
+  	
+  Working 
+        you can see with an manual input and changes accordingly http://myphpapp-danga.rhcloud.com/
