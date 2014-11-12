@@ -20,4 +20,4 @@ Hello sir,
 	mydatabase name is "test"
   user name is "root"
 	password is "" (None).
-	table name in databse is "bookmark".	
+	table name in databse is "bookmark".
