@@ -5,10 +5,10 @@ bookmarks tag using MVC
 
 Hello sir,
 
-    There are three files in my MVC model 
-	i)   bookmark_model      --> model file
-	ii)  bookmark_controller --> controller file
- 	iii) bookmark_view1      --> view file.
+    There are three files in my MVC model (ci_intro/application) 
+	i)   bookmark_model      --> model file       --> (ci_intro/application/model/bookmark_model.php)
+	ii)  bookmark_controller --> controller file  --> (ci_intro/application/controller/bookmark_controller)
+ 	iii) bookmark_view1      --> view file        --> (ci_intro/application/views/bookmark_view1)
 
 	
   Start Project  	
@@ -21,6 +21,8 @@ Hello sir,
   	user name is "root",  
   	password is "" (None),  
   	table name in databse is "bookmark".
+  	
+  	file name database.php    -->  (ci_intro/application/config/database.php)
   	
   Working      
         you can see with an manual input and changes accordingly http://myphpapp-danga.rhcloud.com/
