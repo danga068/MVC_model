@@ -17,10 +17,10 @@ Hello sir,
 	this link to start project on your local machine.
 
   Database	
-	mydatabase name is "test"
-  	user name is "root"
-  	password is "" (None).
+	mydatabase name is "test",   
+  	user name is "root",  
+  	password is "" (None),  
   	table name in databse is "bookmark".
   	
-  Working 
+  Working      
         you can see with an manual input and changes accordingly http://myphpapp-danga.rhcloud.com/
