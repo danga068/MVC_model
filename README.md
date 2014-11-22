@@ -10,7 +10,6 @@ bookmarks tag using MVC in codeigniter.
 
 (ii) > For adding - enter the url first then put a comma and then specify the tags evolved by separating commas (for eg : www.google.com,search,find).
 
-(iii) All the rules applied are according to your question provided.
 
 3 > nbproject folder contains the xml file and properties file.
 
